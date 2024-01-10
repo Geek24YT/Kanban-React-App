@@ -45,7 +45,7 @@ Follow these steps to clone and run the Kanban React App locally:
 
 ## Screenshots
 
-![Kanban Board](./assets/img1.jpg)
+![Kanban Board](./assets/img1.JPG)
 
 ![Kanban Board](./assets/img2.png)
 
